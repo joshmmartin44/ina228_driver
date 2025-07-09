@@ -6,5 +6,5 @@ Bare-bones C++ driver for TI’s **INA228** precision power monitor.
 * Builds in SEGGER Embedded Studio; porting notes are in the header comments.  
 * Endian-correct for all 16 / 24 / 40-bit registers (MSB-first per datasheet).
 
-_No guarantees. Pull requests welcome but merges not promised._
+_No guarantees. Pull requests welcome but merges aren’t promised._
 
